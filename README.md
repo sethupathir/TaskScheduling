@@ -5,4 +5,3 @@
 # The report of the DTS is exported through excel sheet. 
 # This helps the admin to find whether the employee is capable to do a task within the specified time.
 # The e-attendance helps to reduce the proxy activities which done by the students for attendance.
-#Login Employee:
